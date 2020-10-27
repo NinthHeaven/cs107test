@@ -26,5 +26,3 @@ def linear_roots(a=1.0, b=1.0):
 
     # Return roots of linear function
     return (-b/a)
-
-print(quad_roots(1.0, 1.0, -12.0))
